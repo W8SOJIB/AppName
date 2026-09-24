@@ -1,0 +1,5 @@
+
+app_name"W8 Free Fire Panel V2"
+package_name:"com.w8.w8freefirepanelv2"
+telegram_channel:"https://t.me/W8TeamNew"
+telegram_dev:"https://t.me/W8SOJIB"
